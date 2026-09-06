@@ -53,7 +53,7 @@ function Intro() {
                 <h1 className='text-3xl text-white font-bold'>Vijay Jadhav</h1>
                 {/* <p className="text-gray-300">A passionate Full Stack (MERN) Developer with 3.5+ years of experience crafting robust scalable APIs, fluid UI interactions, and seamless user experiences.</p> */}
                 <p className="text-gray-300 sm:text-lg">
-                  Experienced Full-Stack MERN Developer with 4+ years of expertise in building high-performance web apps, microservices, and crafting intuitive UIs using Node.js, React, Next.js, and modern cloud-native technologies. 
+                  Experienced Software Developer with 4+ years of expertise in building high-performance web apps, microservices, and crafting intuitive UIs using Node.js, React, Next.js, and modern cloud-native technologies. 
                   <span className='block'>💡 "Code. Scale. Innovate. - is my Mantra."</span>
                 </p>
               </div>
