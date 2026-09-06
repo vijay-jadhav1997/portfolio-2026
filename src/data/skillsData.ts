@@ -33,9 +33,12 @@ import postman from '../assets/skills-icons/Postman2.svg'
 import jira from '../assets/skills-icons/jira-blue.svg'
 import github from '../assets/skills-icons/Github-Dark.svg'
 import npm from '../assets/skills-icons/Npm-Dark.svg'
-import babel from '../assets/skills-icons/Babel.svg'
+// import babel from '../assets/skills-icons/Babel.svg'
 import vite from '../assets/skills-icons/Vite-Light.svg'
 import vscode from '../assets/skills-icons/VSCode-Dark.svg'
+import antigravity from '../assets/skills-icons/antigravity.svg'
+import claude from '../assets/skills-icons/claude.svg'
+import cursor from '../assets/skills-icons/cursor.svg'
 
 interface TechInterface {
   name: string
@@ -185,16 +188,24 @@ export const workflowAndTools: TechInterface[] = [
     img: npm
   },
   {
-    name: 'Babel',
-    img: babel
-  },
-  {
     name: 'Vite',
     img: vite
   },
   {
     name: 'vs code',
     img: vscode
+  },
+  {
+    name: 'Antigravity',
+    img: antigravity
+  },
+  {
+    name: 'Claude',
+    img: claude
+  },
+  {
+    name: 'Cursor',
+    img: cursor
   },
 ]
 
