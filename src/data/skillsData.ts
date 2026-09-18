@@ -5,16 +5,19 @@ import mongodb from '../assets/skills-icons/MongoDB.svg'
 import postgresql from '../assets/skills-icons/postgresql.svg'
 import redis from '../assets/skills-icons/Redis-Light.svg'
 import mongoose from '../assets/skills-icons/Mongoose.js.svg'
+import graphQL from '../assets/skills-icons/GraphQL.svg'
 import kafka from '../assets/skills-icons/Kafka.svg'
 import rabbitmq from '../assets/skills-icons/RabbitMQ-Light.svg'
 import socket from '../assets/skills-icons/socket-io.svg'
 import swagger from '../assets/skills-icons/Swagger.svg'
+import zod from '../assets/skills-icons/zod.svg'
 
 import aws from '../assets/skills-icons/AWS-Light.svg'
 import docker from '../assets/skills-icons/Docker.svg'
 import Kubernetes from '../assets/skills-icons/Kubernetes.svg'
 import cicd from '../assets/skills-icons/cicd1.svg'
 import microservice from '../assets/skills-icons/microservice.svg'
+import githubActions from '../assets/skills-icons/GitHub-Actions.svg'
 
 import zustand from '../assets/skills-icons/zustand.svg'
 import javascript from '../assets/skills-icons/JavaScript.svg'
@@ -83,6 +86,10 @@ export const backendTechs: TechInterface[] = [
     img: mongoose
   },
   {
+    name: 'GraphQL',
+    img: graphQL
+  },
+  {
     name: 'Socket.io',
     img: socket
   },
@@ -97,6 +104,10 @@ export const backendTechs: TechInterface[] = [
   {
     name: 'Swagger',
     img: swagger
+  },
+  {
+    name: 'Zod',
+    img: zod
   },
 ]
 
@@ -116,6 +127,14 @@ export const cloudAndDevOps: TechInterface[] = [
   {
     name: 'CI/CD',
     img: cicd
+  },
+  {
+    name: 'Micro Services',
+    img: microservice
+  },
+  {
+    name: 'GitHub Actions',
+    img: githubActions
   },
 ]
 
