@@ -23,7 +23,7 @@ function Intro() {
   const copyEmailToClipboard = async () => {
     try {
       setLoading(true)
-      const email = 'vijayjadhav.techsunet@gmail.com'
+      const email = 'vijay.jadhav1997.dev@gmail.com'
 
       await navigator.clipboard.writeText(email)
       toast.success('📧 Email copied to clipboard!', {position:'bottom-center'})
