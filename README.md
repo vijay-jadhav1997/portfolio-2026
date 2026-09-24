@@ -1,4 +1,4 @@
-# 🌐 Vijay Jadhav – Full Stack Developer | MERN & Beyond
+# 🌐 Vijay Jadhav – Full Stack Developer/Engineer
 
 🚀 **Full Stack MERN Developer (React.js | Next.js | Node.js | TypeScript | AWS)**  
 I’m passionate about building **scalable**, **modern**, and **user-focused web applications** that deliver real-world impact.  
@@ -19,7 +19,7 @@ My passion lies in turning ideas into interactive, efficient, and visually appea
 ### 💻 Frontend
 - React.js, Next.js, TypeScript, JavaScript (ES6+)
 - Tailwind CSS, Ant Design, Shadcn UI, CSS3, HTML5
-- React Hooks, Context API, SWR, Axios, Redux Toolkit
+- React Hooks, Context API, SWR, Axios, Redux Toolkit, zod
 - Component-driven & Responsive Design
 
 ### 🧩 Backend
