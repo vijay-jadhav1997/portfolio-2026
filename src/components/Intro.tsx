@@ -64,7 +64,7 @@ function Intro() {
               </div>
 
               <div className="flex flex-col sm:flex-row gap-2">
-                <IconButton onClick={triggerPhoneCall} title='Book A Call' icon={<FiPhoneCall />}/>
+                <IconButton onClick={triggerPhoneCall} title='Call me' icon={<FiPhoneCall />}/>
                 <IconButton onClick={copyEmailToClipboard} title='Copy Email' 
                   icon={ loading ? <IoReloadCircleOutline/> : <IoCopyOutline />}
                 />
