@@ -18,6 +18,8 @@ import Kubernetes from '../assets/skills-icons/Kubernetes.svg'
 import cicd from '../assets/skills-icons/cicd1.svg'
 import microservice from '../assets/skills-icons/microservice.svg'
 import githubActions from '../assets/skills-icons/GitHub-Actions.svg'
+import nginx from '../assets/skills-icons/Nginx.svg'
+import pm2 from '../assets/skills-icons/pm2.svg'
 
 import zustand from '../assets/skills-icons/zustand.svg'
 import javascript from '../assets/skills-icons/JavaScript.svg'
@@ -135,6 +137,14 @@ export const cloudAndDevOps: TechInterface[] = [
   {
     name: 'GitHub Actions',
     img: githubActions
+  },
+  {
+    name: 'Nginx',
+    img: nginx
+  },
+  {
+    name: 'PM2',
+    img: pm2
   },
 ]
 
